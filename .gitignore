@@ -21,3 +21,24 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+now.js
+src/Navigation1.css
+src/Navigation1.js
+src/Service.css
+src/Service.js
+src/androidTest.exe
+src/androidTest/
+src/main.exe
+src/main/
+       
+       
+        src/navbarScroll.js
+     
+   
+       
+        src/test.exe
+        src/test/
+
+
