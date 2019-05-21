@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b8efde1.chunk.css",
+    "main.js": "/static/js/main.9a58778c.chunk.js",
+    "main.js.map": "/static/js/main.9a58778c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.fa20ac67.chunk.css": "/static/css/2.fa20ac67.chunk.css",
+    "static/js/2.077a7062.chunk.js": "/static/js/2.077a7062.chunk.js",
+    "static/js/2.077a7062.chunk.js.map": "/static/js/2.077a7062.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a252e99ecc7d10035004fd5fe17492d5.js": "/precache-manifest.a252e99ecc7d10035004fd5fe17492d5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fa20ac67.chunk.css.map": "/static/css/2.fa20ac67.chunk.css.map",
+    "static/css/main.4b8efde1.chunk.css.map": "/static/css/main.4b8efde1.chunk.css.map",
+    "static/media/Branding4.jpeg": "/static/media/Branding4.f3bba342.jpeg",
+    "static/media/alpha-male.jpg": "/static/media/alpha-male.af7e5076.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/logoForSA.png": "/static/media/logoForSA.04c44c23.png",
+    "static/media/Service.css": "/static/media/promo.b6460862.png",
+    "static/media/Products.css": "/static/media/slide_4.c2c5cb34.jpg",
+    "static/media/Contactus.css": "/static/media/slide_5.059efac9.jpg",
+    "static/media/slide_6.jpg": "/static/media/slide_6.3c9d048f.jpg"
+  }
+}
